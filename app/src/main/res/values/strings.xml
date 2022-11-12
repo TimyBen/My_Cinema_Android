@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Cinema</string>
+    <string name="textview" />
+    <string name="movie_name" />
+    <string-array name="list">
+        <item>Avengers</item>
+        <item>Travelers</item>
+        <item>Brooklyn 99</item>
+        <item>Black Panther: Wakanda Forever</item>
+        <item>Ted 2</item>
+        <item>Shaft</item>
+        <item>The Wrong Missy</item>
+        <item>Murder Mystery</item>
+    </string-array>
+</resources>
