@@ -10,4 +10,8 @@
     <color name="blueBlack">#B7E3E4CB</color>
     <color name="tanAccent">#FD202220</color>
     <color name="bg_color">#e6e9f0</color>
+<<<<<<< HEAD
+=======
+    <color name="splash_color">#484f91</color>
+>>>>>>> 82d4a4a (My Cinema)
 </resources>

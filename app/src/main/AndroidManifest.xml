@@ -14,9 +14,18 @@
         android:theme="@style/Theme.MyCinema"
         tools:targetApi="31">
         <activity
+<<<<<<< HEAD
             android:name=".SplashActivity"
             android:exported="true"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+=======
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.MaterialComponents.NoActionBar">
+>>>>>>> 82d4a4a (My Cinema)
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -25,9 +34,13 @@
         </activity>
         <activity
             android:name=".MainActivity"
+<<<<<<< HEAD
             android:exported="true">
 
         </activity>
+=======
+            android:exported="true"></activity>
+>>>>>>> 82d4a4a (My Cinema)
     </application>
 
 </manifest>

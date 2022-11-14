@@ -1,2 +1,5 @@
-package com.example.mycinema;public interface RecyclerViewInterface {
+package com.example.mycinema;
+
+public interface RecyclerViewInterface {
+    void onItemClick(int position);
 }
